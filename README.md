@@ -1,7 +1,4 @@
-# MyWebsite
- 
- this is a personal website setup by flask.
- the "index.html" in root is only redirect to "index.html" in "templates" folder.
+# this repository is for setup a flask sever quickly
 
 ## Usage
 
