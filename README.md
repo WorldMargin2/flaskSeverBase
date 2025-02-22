@@ -2,14 +2,14 @@
 # forlder structure
 <!-- root/(severBase.py,webfiles/(HTML/,JS/,CSS/,ICON/templates/)) -->
 
- root
- ├── severBase.py
- └── webfiles
-     ├── HTML
-     ├── JS
-     ├── CSS
-     └── ICON
-         └── templates
+ root\
+ ├── severBase.py\
+ └── webfiles\
+     ├── HTML\
+     ├── JS\
+     ├── CSS\
+     └── ICON\
+         └── templates\
 ## Usage
 
 
