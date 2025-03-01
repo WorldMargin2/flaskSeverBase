@@ -1,14 +1,29 @@
 # this repository is for setup a flask sever quickly
 # forlder structure
 ```
-root
-├── severBase.py
-└── webfiles
-    ├── HTML
-    ├── JS
-    ├── CSS
-    └── ICON
-        └── templates
+FLASKSEVERBASE
+│  LICENSE
+│  README.md
+│  severBase.py
+│
+└─webfile
+    ├─CSS
+    │
+    ├─HTML
+    │
+    ├─ICON
+    │
+    ├─JS
+    │      clipboard.js
+    │      jquery-ui.min.js
+    │      jquery.js
+    │
+    ├─LICENSES
+    │      clipboard.license
+    │      jquery-ui.license
+    │      jquery.license
+    │
+    └─templates
 ```
 ## Usage
 
